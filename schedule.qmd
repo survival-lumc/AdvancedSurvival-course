@@ -1,0 +1,71 @@
+---
+title: "Schedule"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| label: process-schedule
+#| echo: false
+#| message: false
+#| results: false
+
+library(kableExtra)
+local_sys <- Sys.getlocale("LC_TIME")
+Sys.setlocale("LC_TIME", "English")
+
+df_sched <- readxl::read_xlsx("asa-2024-schedule.xlsx", sheet = 1)
+df_sched$start_time <- format(as.POSIXct(df_sched$start_time), format = "%H:%M")
+df_sched$finish_time <- format(as.POSIXct(df_sched$finish_time), format = "%H:%M")
+df_sched$weekday <- weekdays(as.POSIXct(df_sched$date))
+df_sched$date_short <- format(as.POSIXct(df_sched$date), format = "%d/%m")
+df_sched$date_lab <- with(df_sched, paste0(weekday, " (", date_short, ")"))
+
+# Set again
+Sys.setlocale("LC_TIME", local_sys)
+
+# Store unique dats
+days <- unique(df_sched$date_lab)
+```
+
+
+```{r}
+#| label: schedule-output
+#| output: asis
+#| echo: false
+
+for (i in seq_along(days)) {
+  
+  cat("\n\n")
+  cat(paste0("## ", days[i]))
+  
+  df_sub <- subset(df_sched, date_lab == days[i]) 
+  df_sub[, c(
+    "start_time",
+    "finish_time",
+    "instructor",
+    "topic"
+  )] |> 
+  kbl(col.names = c("Start", "Finish", "Instructor", "Session title")) |> 
+  kable_styling(c("striped", "hover")) |> 
+  htmltools::HTML() |> 
+  print()
+  
+  cat("\n\n")
+} 
+
+
+# Now for some kabling
+# df_sched[, c(
+#   "date_lab", 
+#   "start_time",
+#   "finish_time",
+#   "instructor",
+#   "topic"
+# )] |> 
+#   kbl(
+#     col.names = c("Day", "Start", "Finish", "Instructor", "Session title")
+#   ) |> 
+#   kable_styling(c("striped", "hover")) |> 
+#   collapse_rows(1, valign = "top")
+```

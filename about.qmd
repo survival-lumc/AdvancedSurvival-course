@@ -1,0 +1,44 @@
+---
+title: "About this course"
+---
+
+## Topics covered
+
+The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R. 
+
+Topics covered include: 
+
+- Introduction: Survival analysis, pitfalls and solutions
+- Competing risks
+- Time-dependent covariates in Cox regression models and landmarking
+- Non-proportional hazards
+- Pseudo-observations
+- Relative survival
+- Multi-state models
+- Dynamic prediction
+- Frailty models
+- Missing data
+- Informative censoring
+- Joint models
+
+## Learning strategy
+
+The material will be presented using slides and through class discussion. All slides, which will contain clear descriptions of the methodology, of applications, and of how to implement analyses in R, and exercise material will be made available. Papers for further study will be shared with the participants.
+
+## Pre‐requisites
+
+This course is directed at statisticians, epidemiologists and clinicians with a good background in statistics and basic knowledge of mathematics. Participants are expected to have a fair knowledge of the standard techniques from survival analysis.
+
+## About the instructors
+
+*Liesbeth de Wreede* is assistant professor at Leiden University Medical Center (Department of Biomedical Data Sciences). She mainly works in survival analysis, with a special interest in competing risks and multi-state models, relative survival and methods for missing data. She collaborates with several organizations in the field of haematology. 
+
+*Hein Putter* is full professor at Leiden University Medical Center (Department of Biomedical Data Sciences). His research interests include competing risks and multi-state models, frailty models and dynamic prediction. He is co-author of the book “Dynamic Prediction in Clinical Survival Analysis”, with Hans van Houwelingen. 
+
+*Maja Pohar Perme* is professor of biostatistics at the University of Ljubljana, where she received all her degrees. She is the head of the Department of Biostatistics and Medical Informatics at the Medical faculty. She is highly involved in the development of statistics in Slovenia, she is the head of the Applied Statistics programme at the University of Ljubljana. Her research focuses on survival analysis with particular interest in relative survival methodology and the use of pseudo-observations. She is the author of the relsurv package in R.
+
+*Sara Baart* has worked on the topic of joint models for longitudinal and time-to-event data, applying the method in different clinical studies and extending the framework to case-cohort designs. Currently she works as a statistician in het Erasmus MC, providing statistical support for several clinical departments and working on methodological research.
+
+*Nan van Geloven* is assistant professor at Leiden University Medical Center (Department of Biomedical Data Sciences). Her research focuses on causal analysis of survival data. She works both on trials and on observational data. She has a special interest in defining estimands and in causal prediction, i.e., predicting outcomes under hypothetical interventions conditional on individual characteristics. 
+
+*Edouard Bonneville* is a PhD Candidate in biostatistics at Leiden University Medical Center. His research interests are in survival analysis, with a particular focus on competing risks, joint models and methods for dealing with missing data. He also works as a statistician for the European Society for Blood and Marrow Transplantation (EBMT).

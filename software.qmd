@@ -1,0 +1,63 @@
+---
+title: "Guide to download and install R packages and related software"
+---
+
+Please note: these instructions and all the syntax that will be distributed in the Advanced Survival Analysis Course are validated for Windows systems, however they should be applicable in Mac systems with minor modifications.
+
+R is a reliable statistical software package that is distributed freely on the web from the main webpage, [https://www.r-project.org](https://www.r-project.org). This website provides links for the R software, general manuals, and other useful material. One major feature of R is that several advanced statistical methods are available as additional packages, also for free. 
+
+R will be used with RStudio, a user friendly interface for R that makes working with R much easier. In the Advanced Survival Analysis Course, additional packages will be used. A list of packages will be given in a separate document.
+
+## Install R
+
+- Go to [https://www.r-project.org](https://www.r-project.org).  
+- From the left-hand side menu, choose Download > CRAN; you will get a list of mirror websites.
+- Choose a location close to you.
+- Choose the download option suitable for your computer (Linux, Mac or Windows).
+- Follow the instructions.
+- (Optional) A guide to installation is provided as webpage and as a PDF file: from the left-hand side menu, choose Documentation > Manuals. Select the ‘R Installation and Administration’ manual. 
+
+## Install RStudio
+
+- Make sure you have already downloaded R (see above).
+- Go to [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/).
+- Scroll down until you see a download button for RStudio Desktop. The webpage automatically detects your platform (Linux, Mac or Windows) but you can also scroll down a bit further to ‘All Installers’ and select the correct installer for your platform yourself.  
+- Go for the latest version (2023.06.1+524 at time of writing).
+- Follow the installation instructions.
+
+## Install a package (e.g. `{survival}` and `{mstate}`)
+
+Alternative 1: 
+
+- Make sure your internet connection is working.
+- Run RStudio: one of the panels you will see when it opens, is the console window (this is indicated at the top of the panel, usually it is the bottom left panel).
+- In the console panel, type 
+
+```{r}
+#| echo: true
+#| eval: false 
+install.packages(c('survival', 'mstate')) # (With quotation marks!)
+```
+
+- To load the survival package, type: library(survival); to load the mstate package, type: library(mstate), without quotation marks!)
+
+Alternative 2: 
+
+- Make sure your internet connection is working.
+- Run RStudio: one of the panels you will see when it opens, is the console window (this is indicated at the top of the panel; usually it is the bottom left panel).
+- From the top menu choose ‘Tools’ > ‘Install Packages…’.
+- In the text box ‘Packages’ type: survival and mstate, select the packages that are highlighted.
+- There is no need to change the other default settings (‘Install from…’ or ‘Install to Library:’). Also leave the checkbox ‘Install dependencies’ checked.
+- Click ‘Install’.
+- To load the survival package, in the console panel type: `library(survival)`.
+
+*NB*: A guide to (package) installation is provided as webpage and as a PDF file: from the left-hand side menu, choose Documentation > Manuals. Select the ‘R Installation and Administration’ manual. See section 6.3 on how to install packages.
+
+## Online material to learn R
+
+To get the most out of the Advanced Survival Analysis course, it is highly recommended to become acquainted with R, if you are not already. Several online sources are available, in different formats. Here is a biased choice:
+
+- Learn R, in R, with {swirl}, see [swirlstats.com](swirlstats.com). The beginner course R programming gives a good overview of R basics.
+- [https://github.com/matloff/fasteR](https://github.com/matloff/fasteR), Fast Lane to Learning R
+- One of the most popular online books is R for Data Science by Hadley Wickham ([https://r4ds.hadley.nz/](https://r4ds.hadley.nz/)), but there are many more options, see [https://www.bigbookofr.com/index.html](https://www.bigbookofr.com/index.html)
+- RYouWithMe ([https://rladiessydney.org/](https://rladiessydney.org/)) is a series of useful videos where you can learn R

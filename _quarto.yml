@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "ASA Leiden 2024"
+  favicon: imgs/lumc-monogram-blauw-jpg.jpg
+  navbar:
+    logo: imgs/lumc-monogram-blauw-jpg.jpg
+    background: "#22092C"
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Resources
+        menu:
+          - text: Schedule
+            href: schedule.qmd
+          - text: Software
+            href: software.qmd
+          - text: Cancellation
+            href: cancellation.qmd
+      - text: About
+        href: about.qmd
+
+format:
+  html:
+    #css: styles.css
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    toc: true
+    title-block-banner: imgs/leiden-banner-edit.jpg
+    title-block-banner-color: lightgray
