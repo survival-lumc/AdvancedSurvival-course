@@ -23,49 +23,24 @@ df_sched$date_lab <- with(df_sched, paste0(weekday, " (", date_short, ")"))
 
 # Set again
 Sys.setlocale("LC_TIME", local_sys)
-
-# Store unique dats
-days <- unique(df_sched$date_lab)
 ```
 
 
 ```{r}
 #| label: schedule-output
-#| output: asis
 #| echo: false
 
-for (i in seq_along(days)) {
-  
-  cat("\n\n")
-  cat(paste0("## ", days[i]))
-  
-  df_sub <- subset(df_sched, date_lab == days[i]) 
-  df_sub[, c(
-    "start_time",
-    "finish_time",
-    "instructor",
-    "topic"
-  )] |> 
+df_sched[, c(
+  "start_time",
+  "finish_time",
+  "instructor",
+  "topic"
+)] |> 
   kbl(col.names = c("Start", "Finish", "Instructor", "Session title")) |> 
   kable_styling(c("striped", "hover")) |> 
-  htmltools::HTML() |> 
-  print()
-  
-  cat("\n\n")
-} 
-
-
-# Now for some kabling
-# df_sched[, c(
-#   "date_lab", 
-#   "start_time",
-#   "finish_time",
-#   "instructor",
-#   "topic"
-# )] |> 
-#   kbl(
-#     col.names = c("Day", "Start", "Finish", "Instructor", "Session title")
-#   ) |> 
-#   kable_styling(c("striped", "hover")) |> 
-#   collapse_rows(1, valign = "top")
+  pack_rows("Monday (26/08)", 1, 11) |> 
+  pack_rows("Tuesday (27/08)", 12, 19) |> 
+  pack_rows("Wednesday (28/08)", 20, 24) |> 
+  pack_rows("Thursday (29/08)", 25, 33) |> 
+  pack_rows("Friday (30/08)", 34, 40)
 ```
