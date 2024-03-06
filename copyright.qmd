@@ -1,0 +1,10 @@
+---
+title: "Copyright statement"
+--- 
+
+Images and text on this site are licensed (unless otherwise specified) following [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
+
+Photo credits:
+
+- Banner image of Leiden attributed to Traveler100, CC BY-SA 3.0 [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons - see [here](https://commons.wikimedia.org/wiki/File:Leiden-NL-Banner-2.jpg).
+- Leiden University Medical Center (LUMC) logo is property of the LUMC - see [here](https://www.albinusnet.nl/weten-en-regelen/it-en-communicatie/drukwerk-en-digitale-media/logos/) (internal link, only accessible to LUMC employees).

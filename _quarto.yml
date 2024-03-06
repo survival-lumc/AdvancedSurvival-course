@@ -1,9 +1,13 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "ASA Leiden 2024"
   favicon: imgs/lumc-monogram-blauw-jpg.jpg
+  page-footer:
+    left: (c) Biomedical Data Sciences (LUMC), 2024 &middot; See [copyright statement](/copyright.qmd)
+    center: Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
   navbar:
     logo: imgs/lumc-monogram-blauw-jpg.jpg
     background: "#22092C"
@@ -13,20 +17,19 @@ website:
       - text: Resources
         menu:
           - text: Schedule
-            href: schedule.qmd
+            href: resources/schedule.qmd
           - text: Software
-            href: software.qmd
+            href: resources/software.qmd
           - text: Cancellation
-            href: cancellation.qmd
+            href: resources/cancellation.qmd
       - text: About
         href: about.qmd
+      - icon: github
+        href: https://github.com/survival-lumc
 
 format:
   html:
-    #css: styles.css
-    theme:
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+    theme: cosmo
     toc: true
     title-block-banner: imgs/leiden-banner-edit.jpg
     title-block-banner-color: lightgray

@@ -3,6 +3,8 @@ title: "Advanced Survival Analysis course 2024"
 subtitle: "5-day course in Biostatistics in Leiden, the Netherlands (August 26 - 30, 2024)" 
 ---
 
+<!-- Add a copyright page with figure credits -->
+
 Are you applying survival analysis methods, and do you want to extend your skills? Then register to our Advanced Survival Analysis course to learn state-of-the-art techniques from international experts.
 
 Our comprehensive course will build on standard tools for survival outcomes: the Kaplan-Meier estimator of the survival curve, the log-rank test for testing equality of survival curves and the Cox proportional hazards regression model. For many common situations these techniques do not suffice, e.g., when more than one event is considered, when the effects of risk factors or treatments change over time, when patients are clustered in groups or when a patient population is compared to the general population. We offer methods for statistical modeling in these settings. Our course delves deeper into a wide range of more specialized topics: non-proportional hazards and time-dependent covariates, competing risks and multi-state models, joint models, landmarking and dynamic prediction, pseudo-observations, frailty models, relative survival, missing data and informative censoring.
@@ -47,7 +49,7 @@ Lunch will be included, except on Wednesday, when a free afternoon is scheduled.
 - LUMC affiliated: &euro;750
 - Non-academic participants: &euro;1700 (ISCB members &euro;1650)
 
-The cancellation policy can be found [here](cancellation.qmd).
+The cancellation policy can be found [here](resources/cancellation.qmd).
 
 ## Registration
 
