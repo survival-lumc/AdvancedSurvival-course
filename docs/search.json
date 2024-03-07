@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "resources/software.html",
+    "href": "resources/software.html",
+    "title": "Guide to download and install R packages and related software",
+    "section": "",
+    "text": "Please note: these instructions and all the syntax that will be distributed in the Advanced Survival Analysis Course are validated for Windows systems, however they should be applicable in Mac systems with minor modifications.\nR is a reliable statistical software package that is distributed freely on the web from the main webpage, https://www.r-project.org. This website provides links for the R software, general manuals, and other useful material. One major feature of R is that several advanced statistical methods are available as additional packages, also for free.\nR will be used with RStudio, a user friendly interface for R that makes working with R much easier. In the Advanced Survival Analysis Course, additional packages will be used. A list of packages will be given in a separate document."
+  },
+  {
+    "objectID": "resources/software.html#install-r",
+    "href": "resources/software.html#install-r",
+    "title": "Guide to download and install R packages and related software",
+    "section": "Install R",
+    "text": "Install R\n\nGo to https://www.r-project.org.\n\nFrom the left-hand side menu, choose Download &gt; CRAN; you will get a list of mirror websites.\nChoose a location close to you.\nChoose the download option suitable for your computer (Linux, Mac or Windows).\nFollow the instructions.\n(Optional) A guide to installation is provided as webpage and as a PDF file: from the left-hand side menu, choose Documentation &gt; Manuals. Select the ‘R Installation and Administration’ manual."
+  },
+  {
+    "objectID": "resources/software.html#install-rstudio",
+    "href": "resources/software.html#install-rstudio",
+    "title": "Guide to download and install R packages and related software",
+    "section": "Install RStudio",
+    "text": "Install RStudio\n\nMake sure you have already downloaded R (see above).\nGo to https://www.rstudio.com/products/rstudio/download/.\nScroll down until you see a download button for RStudio Desktop. The webpage automatically detects your platform (Linux, Mac or Windows) but you can also scroll down a bit further to ‘All Installers’ and select the correct installer for your platform yourself.\n\nGo for the latest version (2023.06.1+524 at time of writing).\nFollow the installation instructions."
+  },
+  {
+    "objectID": "resources/software.html#install-a-package-e.g.-survival-and-mstate",
+    "href": "resources/software.html#install-a-package-e.g.-survival-and-mstate",
+    "title": "Guide to download and install R packages and related software",
+    "section": "Install a package (e.g. {survival} and {mstate})",
+    "text": "Install a package (e.g. {survival} and {mstate})\nAlternative 1:\n\nMake sure your internet connection is working.\nRun RStudio: one of the panels you will see when it opens, is the console window (this is indicated at the top of the panel, usually it is the bottom left panel).\nIn the console panel, type\n\n\ninstall.packages(c('survival', 'mstate')) # (With quotation marks!)\n\n\nTo load the survival package, type: library(survival); to load the mstate package, type: library(mstate), without quotation marks!)\n\nAlternative 2:\n\nMake sure your internet connection is working.\nRun RStudio: one of the panels you will see when it opens, is the console window (this is indicated at the top of the panel; usually it is the bottom left panel).\nFrom the top menu choose ‘Tools’ &gt; ‘Install Packages…’.\nIn the text box ‘Packages’ type: survival and mstate, select the packages that are highlighted.\nThere is no need to change the other default settings (‘Install from…’ or ‘Install to Library:’). Also leave the checkbox ‘Install dependencies’ checked.\nClick ‘Install’.\nTo load the survival package, in the console panel type: library(survival).\n\nNB: A guide to (package) installation is provided as webpage and as a PDF file: from the left-hand side menu, choose Documentation &gt; Manuals. Select the ‘R Installation and Administration’ manual. See section 6.3 on how to install packages."
+  },
+  {
+    "objectID": "resources/software.html#online-material-to-learn-r",
+    "href": "resources/software.html#online-material-to-learn-r",
+    "title": "Guide to download and install R packages and related software",
+    "section": "Online material to learn R",
+    "text": "Online material to learn R\nTo get the most out of the Advanced Survival Analysis course, it is highly recommended to become acquainted with R, if you are not already. Several online sources are available, in different formats. Here is a biased choice:\n\nLearn R, in R, with {swirl}, see swirlstats.com. The beginner course R programming gives a good overview of R basics.\nhttps://github.com/matloff/fasteR, Fast Lane to Learning R\nOne of the most popular online books is R for Data Science by Hadley Wickham (https://r4ds.hadley.nz/), but there are many more options, see https://www.bigbookofr.com/index.html\nRYouWithMe (https://rladiessydney.org/) is a series of useful videos where you can learn R"
+  },
+  {
+    "objectID": "resources/cancellation.html",
+    "href": "resources/cancellation.html",
+    "title": "Cancellation policy",
+    "section": "",
+    "text": "If the participant cancels his or her participation after enrolment the following policy applies:\n\nCancellation before July 16, 2024: 100% refund minus €100.00 administration fees\nCancellation between July 16 and August 10, 2024: 50% refund\nCancellation on or after August 10, 2024: no refund"
+  },
+  {
+    "objectID": "resources/cancellation.html#cancellation-by-the-participant",
+    "href": "resources/cancellation.html#cancellation-by-the-participant",
+    "title": "Cancellation policy",
+    "section": "",
+    "text": "If the participant cancels his or her participation after enrolment the following policy applies:\n\nCancellation before July 16, 2024: 100% refund minus €100.00 administration fees\nCancellation between July 16 and August 10, 2024: 50% refund\nCancellation on or after August 10, 2024: no refund"
+  },
+  {
+    "objectID": "resources/cancellation.html#force-majeure",
+    "href": "resources/cancellation.html#force-majeure",
+    "title": "Cancellation policy",
+    "section": "Force majeure",
+    "text": "Force majeure\nWhilst every attempt is made to ensure that the course is run as advertised, LUMC reserves the right to cancel the course due to:\n\nCircumstances outside its control, including, but not limited to, war, civil unrest, strikes, accident, incapacitating illness, fire, flood, travel disruption\nDangerous and/or unsuitable conditions for the course being present or forecast\n\nIf the course is cancelled, LUMC will notify participants as soon as reasonably practicable. Where the course is cancelled by LUMC the participant (or a substitute colleague) can follow the same course at a later timepoint."
+  },
+  {
+    "objectID": "copyright.html",
+    "href": "copyright.html",
+    "title": "Copyright statement",
+    "section": "",
+    "text": "Images and text on this site are licensed (unless otherwise specified) following CC BY-NC 4.0.\nPhoto credits:\n\nBanner image of Leiden attributed to Traveler100, CC BY-SA 3.0, via Wikimedia Commons - see here.\nLeiden University Medical Center (LUMC) logo is property of the LUMC - see here (internal link, only accessible to LUMC employees)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this course",
+    "section": "",
+    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models"
+  },
+  {
+    "objectID": "about.html#topics-covered",
+    "href": "about.html#topics-covered",
+    "title": "About this course",
+    "section": "",
+    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models"
+  },
+  {
+    "objectID": "about.html#learning-strategy",
+    "href": "about.html#learning-strategy",
+    "title": "About this course",
+    "section": "Learning strategy",
+    "text": "Learning strategy\nThe material will be presented using slides and through class discussion. All slides, which will contain clear descriptions of the methodology, of applications, and of how to implement analyses in R, and exercise material will be made available. Papers for further study will be shared with the participants."
+  },
+  {
+    "objectID": "about.html#prerequisites",
+    "href": "about.html#prerequisites",
+    "title": "About this course",
+    "section": "Pre‐requisites",
+    "text": "Pre‐requisites\nThis course is directed at statisticians, epidemiologists and clinicians with a good background in statistics and basic knowledge of mathematics. Participants are expected to have a fair knowledge of the standard techniques from survival analysis."
+  },
+  {
+    "objectID": "about.html#about-the-instructors",
+    "href": "about.html#about-the-instructors",
+    "title": "About this course",
+    "section": "About the instructors",
+    "text": "About the instructors\nLiesbeth de Wreede is assistant professor at Leiden University Medical Center (Department of Biomedical Data Sciences). She mainly works in survival analysis, with a special interest in competing risks and multi-state models, relative survival and methods for missing data. She collaborates with several organizations in the field of haematology.\nHein Putter is full professor at Leiden University Medical Center (Department of Biomedical Data Sciences). His research interests include competing risks and multi-state models, frailty models and dynamic prediction. He is co-author of the book “Dynamic Prediction in Clinical Survival Analysis”, with Hans van Houwelingen.\nMaja Pohar Perme is professor of biostatistics at the University of Ljubljana, where she received all her degrees. She is the head of the Department of Biostatistics and Medical Informatics at the Medical faculty. She is highly involved in the development of statistics in Slovenia, she is the head of the Applied Statistics programme at the University of Ljubljana. Her research focuses on survival analysis with particular interest in relative survival methodology and the use of pseudo-observations. She is the author of the relsurv package in R.\nSara Baart has worked on the topic of joint models for longitudinal and time-to-event data, applying the method in different clinical studies and extending the framework to case-cohort designs. Currently she works as a statistician in het Erasmus MC, providing statistical support for several clinical departments and working on methodological research.\nNan van Geloven is assistant professor at Leiden University Medical Center (Department of Biomedical Data Sciences). Her research focuses on causal analysis of survival data. She works both on trials and on observational data. She has a special interest in defining estimands and in causal prediction, i.e., predicting outcomes under hypothetical interventions conditional on individual characteristics.\nEdouard Bonneville is a PhD Candidate in biostatistics at Leiden University Medical Center. His research interests are in survival analysis, with a particular focus on competing risks, joint models and methods for dealing with missing data. He also works as a statistician for the European Society for Blood and Marrow Transplantation (EBMT)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Advanced Survival Analysis course 2024",
+    "section": "",
+    "text": "Are you applying survival analysis methods, and do you want to extend your skills? Then register to our Advanced Survival Analysis course to learn state-of-the-art techniques from international experts.\nOur comprehensive course will build on standard tools for survival outcomes: the Kaplan-Meier estimator of the survival curve, the log-rank test for testing equality of survival curves and the Cox proportional hazards regression model. For many common situations these techniques do not suffice, e.g., when more than one event is considered, when the effects of risk factors or treatments change over time, when patients are clustered in groups or when a patient population is compared to the general population. We offer methods for statistical modeling in these settings. Our course delves deeper into a wide range of more specialized topics: non-proportional hazards and time-dependent covariates, competing risks and multi-state models, joint models, landmarking and dynamic prediction, pseudo-observations, frailty models, relative survival, missing data and informative censoring.\nThere will be a balance between concepts, mathematics, implementation and interpretation. The majority of clinical examples discussed come from the collaborative work of the teachers with clinicians. You will gain hands-on experience with real clinical data in computer practicals to master the methods.\nAfter the course you will have the tools to tackle complex time-to-event problems!"
+  },
+  {
+    "objectID": "index.html#course-staff",
+    "href": "index.html#course-staff",
+    "title": "Advanced Survival Analysis course 2024",
+    "section": "Course staff",
+    "text": "Course staff\nCourse coordinators:\n\nHein Putter (Leiden University Medical Center)\nLiesbeth de Wreede (Leiden University Medical Center)\n\n\n\n\n\n \n\n\n\nCourse instructors:\n\nLiesbeth de Wreede (Leiden University Medical Center)\nHein Putter (Leiden University Medical Center)\nMaja Pohar Perme (University of Ljubljana, Slovenia)\nSara Baart (Erasmus Medical Center, Rotterdam)\nNan van Geloven (Leiden University Medical Center)\nEdouard Bonneville (Leiden University Medical Center)"
+  },
+  {
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "Advanced Survival Analysis course 2024",
+    "section": "Location",
+    "text": "Location\nThe course will take place at the Meeting & Event Center of Fletcher Wellness-Hotel Leiden, with excellent conference and catering facilities, very conveniently located next to Leiden Central Station.\nLunch will be included, except on Wednesday, when a free afternoon is scheduled. A joint dinner on Monday evening in the historic city center is included. More detailed information about the schedule and location will be provided upon registration."
+  },
+  {
+    "objectID": "index.html#course-prices",
+    "href": "index.html#course-prices",
+    "title": "Advanced Survival Analysis course 2024",
+    "section": "Course prices",
+    "text": "Course prices\n\nAcademic participants, early registration (before 15/06/2024): €1300 (ISCB members €1250)\nAcademic participants, late registration: €1550 (ISCB members €1500)\nLUMC affiliated: €750\nNon-academic participants: €1700 (ISCB members €1650)\n\nThe cancellation policy can be found here."
+  },
+  {
+    "objectID": "index.html#registration",
+    "href": "index.html#registration",
+    "title": "Advanced Survival Analysis course 2024",
+    "section": "Registration",
+    "text": "Registration\nTo register for the course, please fill in the form found via this link:\n\nhttps://forms.lumc.nl/lumc2/registration-advanced-survival-course-2024\n\nNote that the number of places is limited and will be allocated on a first-come-first-serve basis. Your registration will be confirmed within 3 weeks."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Advanced Survival Analysis course 2024",
+    "section": "Contact",
+    "text": "Contact\nIf you have any questions regarding the course, feel free to send an e-mail to statistics “at” lumc.nl, stating “ASA” in the subject line."
+  },
+  {
+    "objectID": "resources/schedule.html",
+    "href": "resources/schedule.html",
+    "title": "(Preliminary) Schedule",
+    "section": "",
+    "text": "Start\nFinish\nInstructor\nSession title\n\n\n\n\n08:45\n09:00\nLiesbeth de Wreede;Hein Putter\nWelcome\n\n\n09:00\n10:00\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\n\n\n10:00\n11:15\nLiesbeth de Wreede\nCompeting risks\n\n\n11:15\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\n\n\n12:30\n13:30\n\nLunch break\n\n\n13:30\n14:15\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\n\n\n14:15\n14:45\nHein Putter\nNon-proportional hazards\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n15:00\n16:00\nMaja Pohar Perme\nPseudo-observations\n\n\n16:00\n17:00\nHP/MPP\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\n\n\n19:00\n\n\nDinner"
+  },
+  {
+    "objectID": "resources/schedule.html#monday-2608",
+    "href": "resources/schedule.html#monday-2608",
+    "title": "(Preliminary) Schedule",
+    "section": "",
+    "text": "Start\nFinish\nInstructor\nSession title\n\n\n\n\n08:45\n09:00\nLiesbeth de Wreede;Hein Putter\nWelcome\n\n\n09:00\n10:00\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\n\n\n10:00\n11:15\nLiesbeth de Wreede\nCompeting risks\n\n\n11:15\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\n\n\n12:30\n13:30\n\nLunch break\n\n\n13:30\n14:15\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\n\n\n14:15\n14:45\nHein Putter\nNon-proportional hazards\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n15:00\n16:00\nMaja Pohar Perme\nPseudo-observations\n\n\n16:00\n17:00\nHP/MPP\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\n\n\n19:00\n\n\nDinner"
+  },
+  {
+    "objectID": "resources/schedule.html#tuesday-2708",
+    "href": "resources/schedule.html#tuesday-2708",
+    "title": "(Preliminary) Schedule",
+    "section": "Tuesday (27/08)",
+    "text": "Tuesday (27/08)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\n\n\n\n\n09:00\n10:00\nLdW/HP/MPP\nDiscussion practicals Monday\n\n\n10:00\n11:15\nLiesbeth de Wreede\nMulti-state models introduction\n\n\n11:15\n12:00\nLdW/HP\nPractical multi-state models\n\n\n12:00\n13:00\n\nLunch break\n\n\n13:00\n13:45\nLiesbeth de Wreede\nMulti-state models estimation and prediction\n\n\n13:45\n14:30\nLdW/HP\nPractical multi-state models\n\n\n14:30\n15:45\nMaja Pohar Perme\nRelative survival\n\n\n15:45\n17:00\nMaja Pohar Perme\nPractical Relative survival"
+  },
+  {
+    "objectID": "resources/schedule.html#wednesday-2808",
+    "href": "resources/schedule.html#wednesday-2808",
+    "title": "(Preliminary) Schedule",
+    "section": "Wednesday (28/08)",
+    "text": "Wednesday (28/08)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\n\n\n\n\n09:00\n10:00\nMPP/LdW/HP\nDiscussion practicals Tuesday\n\n\n10:00\n11:00\nHein Putter\nDynamic prediction by landmarking\n\n\n11:00\n12:00\nHein Putter\nPractical dynamic prediction by landmarking\n\n\n12:00\n13:00\nHein Putter\nFrailty models I\n\n\n13:00\n\n\nFree afternoon"
+  },
+  {
+    "objectID": "resources/schedule.html#thursday-2908",
+    "href": "resources/schedule.html#thursday-2908",
+    "title": "(Preliminary) Schedule",
+    "section": "Thursday (29/08)",
+    "text": "Thursday (29/08)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\n\n\n\n\n09:00\n09:30\nHein Putter\nDiscussion practicals Wednesday\n\n\n09:30\n10:30\nHein Putter\nFrailty models II\n\n\n10:30\n10:45\n\nCoffee break\n\n\n10:45\n12:00\nHein Putter\nPractical Frailty models\n\n\n12:00\n13:00\n\nLunch break\n\n\n13:00\n14:15\nNan van Geloven\nLecture Inverse probability of censoring weighting\n\n\n14:15\n15:30\nEdouard Bonneville\nMissing data\n\n\n15:30\n15:45\n\nCoffee break\n\n\n15:45\n17:00\nEdouard Bonneville\nPractical Missing data"
+  },
+  {
+    "objectID": "resources/schedule.html#friday-3008",
+    "href": "resources/schedule.html#friday-3008",
+    "title": "(Preliminary) Schedule",
+    "section": "Friday (30/08)",
+    "text": "Friday (30/08)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\n\n\n\n\n09:00\n09:45\nHP/NvG/EB\nDiscussion practicals Thursday\n\n\n09:45\n10:00\n\nCoffee break\n\n\n10:00\n12:00\nSara Baart\nLecture Joint models\n\n\n12:00\n13:00\n\nLunch break\n\n\n13:00\n14:30\nSara Baart\nPractical Joint models\n\n\n14:30\n14:45\n\nCoffee break\n\n\n14:45\n16:00\nLdW/HP\nWrap-up/Q&A"
+  }
+]
