@@ -29,7 +29,7 @@ website:
 
 format:
   html:
+    css: styles.css
     theme: cosmo
     toc: true
-    title-block-banner: imgs/leiden-banner-edit.jpg
-    title-block-banner-color: lightgray
+    title-block-banner: true
