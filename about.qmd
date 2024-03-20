@@ -21,6 +21,8 @@ Topics covered include:
 - Informative censoring
 - Joint models
 
+The tentative course schedule can be found [here](resources/schedule.qmd).
+
 ## Learning strategy
 
 The material will be presented using slides and through class discussion. All slides, which will contain clear descriptions of the methodology, of applications, and of how to implement analyses in R, and exercise material will be made available. Papers for further study will be shared with the participants.

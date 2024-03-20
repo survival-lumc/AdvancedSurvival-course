@@ -67,14 +67,14 @@
     "href": "about.html",
     "title": "About this course",
     "section": "",
-    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models"
+    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models\n\nThe tentative course schedule can be found here."
   },
   {
     "objectID": "about.html#topics-covered",
     "href": "about.html#topics-covered",
     "title": "About this course",
     "section": "",
-    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models"
+    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models\n\nThe tentative course schedule can be found here."
   },
   {
     "objectID": "about.html#learning-strategy",

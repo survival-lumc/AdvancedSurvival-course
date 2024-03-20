@@ -22,7 +22,7 @@ website:
             href: resources/software.qmd
           - text: Cancellation
             href: resources/cancellation.qmd
-      - text: About
+      - text: Course content
         href: about.qmd
       - icon: github
         href: https://github.com/survival-lumc
