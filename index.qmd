@@ -1,6 +1,9 @@
 ---
 title: "Advanced Survival Analysis course 2024"
-subtitle: "5-day course in Biostatistics in Leiden, the Netherlands (August 26 - 30, 2024)" 
+subtitle: "5-day course in Biostatistics in Leiden, the Netherlands (August 26 - 30, 2024)"
+include-in-header:
+  - text: |
+      <meta name="google-site-verification" content="E3elKxdxnIURa4bDz_yL2aVQv2yCkYdcaK6wTV_00sY" />
 ---
 
 Are you applying survival analysis methods, and do you want to extend your skills? Then register to our Advanced Survival Analysis course to learn state-of-the-art techniques from international experts.
