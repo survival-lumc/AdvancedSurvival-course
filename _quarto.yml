@@ -19,16 +19,14 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Resources
-        menu:
-          - text: Schedule
-            href: resources/schedule.qmd
-          - text: Software
-            href: resources/software.qmd
-          - text: Cancellation
-            href: resources/cancellation.qmd
       - text: Course content
         href: about.qmd
+      - text: Schedule
+        href: resources/schedule.qmd
+      - text: Resources
+        menu:
+          - text: Cancellation policy
+            href: resources/cancellation.qmd
     right:
       - icon: github
         href: https://github.com/survival-lumc
