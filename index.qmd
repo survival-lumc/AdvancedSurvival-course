@@ -14,7 +14,7 @@ There will be a balance between concepts, mathematics, implementation (computer 
 
 After the course you will have the tools to tackle complex time-to-event problems!
 
-The tentative course schedule can be found [here](resources/schedule.qmd).
+Further information about the course content can be found [here](about.qmd).
 
 ## Course staff
 
