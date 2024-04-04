@@ -66,5 +66,4 @@ Note that the number of places is limited and will be allocated on a first-come-
 
 ## Contact
 
-If you have any questions regarding the course, feel free to send an e-mail to 
-statistics "at" lumc.nl, stating "ASA" in the subject line. 
+If you have any questions regarding the course, feel free to send an e-mail to Ms. Leonie Oudshoorn at: statistics "at" lumc.nl, stating "ASA" in the subject line. 
