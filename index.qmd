@@ -56,6 +56,13 @@ Lunch will be included, except on Wednesday, when a free afternoon is scheduled.
 
 The cancellation policy can be found [here](resources/cancellation.qmd).
 
+# Testimonials from those attending in 2023
+
+- *"It was very well structured with lectures and practicals in between. The course was highly informative - also the solutions to the practicals in the HTML format were amazing- thank you so much!"*
+- *"The wide range of models for different situations gave me lot’s of inspiration of different things to use. The constant use of examples from applications really brought that to light as well."*
+- *"great course, great enthusiasm, great teachers, and most of all how approachable lecturers were"*
+- *"I loved the lectures - they were at the perfect level of detail and mathematical overview without being too superficial nor too theoretical. The organization and order of which lectures followed each was also very thoughtful."*
+
 ## Registration
 
 To register for the course, please fill in the form found via this link: 
