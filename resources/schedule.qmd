@@ -9,6 +9,7 @@ editor_options:
 #| echo: false
 #| message: false
 #| results: false
+#| warning: false
 
 library(kableExtra)
 local_sys <- Sys.getlocale("LC_TIME")
