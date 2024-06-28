@@ -151,14 +151,14 @@
     "href": "resources/schedule.html",
     "title": "(Preliminary) Schedule",
     "section": "",
-    "text": "Start\nFinish\nInstructor\nSession title\n\n\n\n\n08:45\n09:00\nLiesbeth de Wreede;Hein Putter\nWelcome\n\n\n09:00\n10:00\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\n\n\n10:00\n11:15\nLiesbeth de Wreede\nCompeting risks\n\n\n11:15\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\n\n\n12:30\n13:30\n\nLunch break\n\n\n13:30\n14:15\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\n\n\n14:15\n14:45\nHein Putter\nNon-proportional hazards\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n15:00\n16:00\nMaja Pohar Perme\nPseudo-observations\n\n\n16:00\n17:00\nHP/MPP\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\n\n\n19:00\n\n\nDinner"
+    "text": "Warning: package 'kableExtra' was built under R version 4.3.3"
   },
   {
     "objectID": "resources/schedule.html#monday-2608",
     "href": "resources/schedule.html#monday-2608",
     "title": "(Preliminary) Schedule",
-    "section": "",
-    "text": "Start\nFinish\nInstructor\nSession title\n\n\n\n\n08:45\n09:00\nLiesbeth de Wreede;Hein Putter\nWelcome\n\n\n09:00\n10:00\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\n\n\n10:00\n11:15\nLiesbeth de Wreede\nCompeting risks\n\n\n11:15\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\n\n\n12:30\n13:30\n\nLunch break\n\n\n13:30\n14:15\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\n\n\n14:15\n14:45\nHein Putter\nNon-proportional hazards\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n15:00\n16:00\nMaja Pohar Perme\nPseudo-observations\n\n\n16:00\n17:00\nHP/MPP\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\n\n\n19:00\n\n\nDinner"
+    "section": "Monday (26/08)",
+    "text": "Monday (26/08)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\n\n\n\n\n08:45\n09:00\nLiesbeth de Wreede;Hein Putter\nWelcome\n\n\n09:00\n10:00\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\n\n\n10:00\n11:15\nLiesbeth de Wreede\nCompeting risks\n\n\n11:15\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\n\n\n12:30\n13:30\n\nLunch break\n\n\n13:30\n14:15\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\n\n\n14:15\n14:45\nHein Putter\nNon-proportional hazards\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n15:00\n16:00\nMaja Pohar Perme\nPseudo-observations\n\n\n16:00\n17:00\nHP/MPP\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\n\n\n19:00\n\n\nDinner"
   },
   {
     "objectID": "resources/schedule.html#tuesday-2708",
@@ -179,7 +179,7 @@
     "href": "resources/schedule.html#thursday-2908",
     "title": "(Preliminary) Schedule",
     "section": "Thursday (29/08)",
-    "text": "Thursday (29/08)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\n\n\n\n\n09:00\n09:30\nHein Putter\nDiscussion practicals Wednesday\n\n\n09:30\n10:30\nHein Putter\nFrailty models II\n\n\n10:30\n10:45\n\nCoffee break\n\n\n10:45\n12:00\nHein Putter\nPractical Frailty models\n\n\n12:00\n13:00\n\nLunch break\n\n\n13:00\n14:15\nNan van Geloven\nLecture Inverse probability of censoring weighting\n\n\n14:15\n15:30\nEdouard Bonneville\nMissing data\n\n\n15:30\n15:45\n\nCoffee break\n\n\n15:45\n17:00\nEdouard Bonneville\nPractical Missing data"
+    "text": "Thursday (29/08)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\n\n\n\n\n09:00\n09:30\nHein Putter\nDiscussion practicals Wednesday\n\n\n09:30\n10:30\nHein Putter\nFrailty models II\n\n\n10:30\n10:45\n\nCoffee break\n\n\n10:45\n12:00\nHein Putter\nPractical Frailty models\n\n\n12:00\n13:00\n\nLunch break\n\n\n13:00\n13:45\nNan van Geloven\nInverse probability of censoring weighting\n\n\n13:45\n14:15\nNan van Geloven\nPractical Inverse probability of censoring weighting\n\n\n14:15\n14:30\nNan van Geloven\nDiscussion practical\n\n\n14:30\n14:45\n\nCoffee break\n\n\n14:45\n16:00\nEdouard Bonneville\nMissing data\n\n\n16:00\n17:00\nEdouard Bonneville\nPractical Missing data"
   },
   {
     "objectID": "resources/schedule.html#friday-3008",
