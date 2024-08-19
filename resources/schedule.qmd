@@ -37,9 +37,10 @@ df_sched[df_sched$weekday == "Monday", c(
   "start_time",
   "finish_time",
   "instructor",
-  "topic"
+  "topic",
+  "session_code"
 )] |> 
-  kbl(col.names = c("Start", "Finish", "Instructor", "Session title")) |> 
+  kbl(col.names = c("Start", "Finish", "Instructor", "Session title", "Session code")) |> 
   kable_styling(c("striped", "hover")) |> 
   column_spec(1, width = "1cm") |> 
   column_spec(2, width = "1cm") |> 
@@ -57,9 +58,10 @@ df_sched[df_sched$weekday == "Tuesday", c(
   "start_time",
   "finish_time",
   "instructor",
-  "topic"
+  "topic",
+  "session_code"
 )] |> 
-  kbl(col.names = c("Start", "Finish", "Instructor", "Session title")) |> 
+  kbl(col.names = c("Start", "Finish", "Instructor", "Session title", "Session code")) |> 
   kable_styling(c("striped", "hover")) |> 
   column_spec(1, width = "1cm") |> 
   column_spec(2, width = "1cm") |> 
@@ -77,9 +79,10 @@ df_sched[df_sched$weekday == "Wednesday", c(
   "start_time",
   "finish_time",
   "instructor",
-  "topic"
+  "topic",
+  "session_code"
 )] |> 
-  kbl(col.names = c("Start", "Finish", "Instructor", "Session title")) |> 
+  kbl(col.names = c("Start", "Finish", "Instructor", "Session title", "Session code")) |> 
   kable_styling(c("striped", "hover")) |> 
   column_spec(1, width = "1cm") |> 
   column_spec(2, width = "1cm") |> 
@@ -97,9 +100,10 @@ df_sched[df_sched$weekday == "Thursday", c(
   "start_time",
   "finish_time",
   "instructor",
-  "topic"
+  "topic",
+  "session_code"
 )] |> 
-  kbl(col.names = c("Start", "Finish", "Instructor", "Session title")) |> 
+  kbl(col.names = c("Start", "Finish", "Instructor", "Session title", "Session code")) |> 
   kable_styling(c("striped", "hover")) |> 
   column_spec(1, width = "1cm") |> 
   column_spec(2, width = "1cm") |> 
@@ -117,9 +121,10 @@ df_sched[df_sched$weekday == "Friday", c(
   "start_time",
   "finish_time",
   "instructor",
-  "topic"
+  "topic",
+  "session_code"
 )] |> 
-  kbl(col.names = c("Start", "Finish", "Instructor", "Session title")) |> 
+  kbl(col.names = c("Start", "Finish", "Instructor", "Session title", "Session code")) |> 
   kable_styling(c("striped", "hover")) |> 
   column_spec(1, width = "1cm") |> 
   column_spec(2, width = "1cm") |> 
