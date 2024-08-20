@@ -46,7 +46,7 @@ df_sched[df_sched$weekday == "Monday", c(
   column_spec(2, width = "1cm") |> 
   column_spec(3, width = "4cm") |> 
   column_spec(4, italic = TRUE, width = "8cm") |> 
-  column_spec(5, italic = TRUE, width = "3cm")
+  column_spec(5, width = "3cm")
 ```
 
 ## Tuesday (27/08)
@@ -68,7 +68,7 @@ df_sched[df_sched$weekday == "Tuesday", c(
   column_spec(2, width = "1cm") |> 
   column_spec(3, width = "4cm") |> 
   column_spec(4, italic = TRUE, width = "8cm") |> 
-  column_spec(5, italic = TRUE, width = "3cm")
+  column_spec(5, width = "3cm")
 ```
 
 ## Wednesday (28/08)
@@ -90,7 +90,7 @@ df_sched[df_sched$weekday == "Wednesday", c(
   column_spec(2, width = "1cm") |> 
   column_spec(3, width = "4cm") |> 
   column_spec(4, italic = TRUE, width = "8cm") |> 
-  column_spec(5, italic = TRUE, width = "3cm")
+  column_spec(5, width = "3cm")
 ```
 
 ## Thursday (29/08)
@@ -112,7 +112,7 @@ df_sched[df_sched$weekday == "Thursday", c(
   column_spec(2, width = "1cm") |> 
   column_spec(3, width = "4cm") |> 
   column_spec(4, italic = TRUE, width = "8cm") |> 
-  column_spec(5, italic = TRUE, width = "3cm")
+  column_spec(5, width = "3cm")
 ```
 
 ## Friday (30/08)
@@ -134,5 +134,5 @@ df_sched[df_sched$weekday == "Friday", c(
   column_spec(2, width = "1cm") |> 
   column_spec(3, width = "4cm") |> 
   column_spec(4, italic = TRUE, width = "8cm") |> 
-  column_spec(5, italic = TRUE, width = "3cm")
+  column_spec(5, width = "3cm")
 ```
