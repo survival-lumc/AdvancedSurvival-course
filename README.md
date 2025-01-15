@@ -4,11 +4,11 @@
 
 The Advanced Survival Analysis (ASA) course landing site is based on [Quarto](https://quarto.org/docs/websites/). Updating the website is as simple as:
 
-1. Make changes to one or more .qmd files (each .qmd file corresponds to a page on the website).
+1. Make changes to one or more .qmd files (each .qmd file corresponds to a page on the website) locally, after cloning this repository.
 
 2. Use `quarto::quarto_render()` to render the changes to the docs/ directory, then double-check changes locally.
 
-3. Push locally rendered/modified files to Github using `git push origin main`. You can check the URL of the site by following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). Before someone can push changes to this repository, they need to first be given appropriate [permissions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository).
+3. Push locally rendered/modified files to Github using `git add` and `git push`. You can check the URL of the site by following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). Before someone can push changes to this repository, they need to first be given appropriate [permissions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository).
 
 Other points:
 
