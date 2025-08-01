@@ -1,6 +1,6 @@
 ---
-title: "Advanced Survival Analysis course 2024"
-subtitle: "5-day course in Biostatistics in Leiden, the Netherlands (August 26 - 30, 2024)"
+title: "Advanced Survival Analysis course 2026"
+subtitle: "5-day course in Biostatistics in Leiden, the Netherlands (January 12 - 16, 2026)"
 include-in-header:
   - text: |
       <meta name="google-site-verification" content="E3elKxdxnIURa4bDz_yL2aVQv2yCkYdcaK6wTV_00sY" />
@@ -36,7 +36,7 @@ Course instructors:
 - Maja Pohar Perme (University of Ljubljana, Slovenia)
 - Sara Baart (Erasmus Medical Center, Rotterdam)
 - Nan van Geloven (Leiden University Medical Center)
-- Edouard Bonneville (Leiden University Medical Center)
+- Edouard Bonneville (LMU Munich, Germany)
 
 Further information about the instructors can be found [here](about.qmd).
 
@@ -49,30 +49,30 @@ Lunch will be included, except on Wednesday, when a free afternoon is scheduled.
 
 ## Course prices 
 
-- Academic participants, early registration (before 15/06/2024): &euro;1300 (ISCB members &euro;1250)
-- Academic participants, late registration: &euro;1550 (ISCB members &euro;1500)
-- LUMC affiliated: &euro;750
-- Non-academic participants: &euro;1700 (ISCB members &euro;1650)
+- Academic participants, early registration (before 15/10/2025): &euro;1400 (ISCB members &euro;1350)
+- Academic participants, late registration: &euro;1650 (ISCB members &euro;1600)
+- LUMC affiliated: &euro;800
+- Non-academic participants: &euro;1800 (ISCB members &euro;1750)
 
 The cancellation policy can be found [here](resources/cancellation.qmd).
 
-## Testimonials from those attending in 2023
+## Testimonials from those attending in 2024
 
-*"It was very well structured with lectures and practicals in between. The course was highly informative - also the solutions to the practicals in the HTML format were amazing- thank you so much!"*
+*"Good pace, good lecturers, and excellent practical materials useful for further study."*
 
-*"The wide range of models for different situations gave me lots of inspiration of different things to use. The constant use of examples from applications really brought that to light as well."*
+*"Availability and content of course material were great! And super convenient to have the R code answers at hand when working on the practicals. The help of the practical assistants was also great!"*
 
-*"great course, great enthusiasm, great teachers, and most of all how approachable lecturers were"*
+*"The in-depth study of the more complex topics in the subject area was very good. In addition to the previously existing self-learning, the topics were given a more stable basis for further ongoing."*
 
-*"I loved the lectures - they were at the perfect level of detail and mathematical overview without being too superficial nor too theoretical. The organization and order of which lectures followed each was also very thoughtful."*
+*"The lectures were very pedagogical and all the lecturers were very skilled. Especially how Liesbeth and also Hein answered the questions is quite profound. They could really pinpoint where the reasoning went “wrong” and why this approach or way of thinking works or does not work, but also gave this feedback in a very respectful and fun way."*
 
 ## Registration
 
-To register for the course, please fill in the form found via this link: 
+To register for the course, please fill in the form found via this link:
 
-> [https://forms.lumc.nl/lumc2/registration-advanced-survival-course-2024](https://forms.lumc.nl/lumc2/registration-advanced-survival-course-2024) 
+> [https://forms.lumc.nl/lumc2/registration-advanced-survival-course-2026](https://forms.lumc.nl/lumc2/registration-advanced-survival-course-2026)
 
-Note that the number of places is limited and will be allocated on a first-come-first-serve basis. Your registration will be confirmed within 3 weeks. 
+Note that the number of places is limited and will be allocated on a first-come-first-serve basis. Your registration will be confirmed within 3 weeks.
 
 ## Contact
 

@@ -22,7 +22,7 @@ R will be used with RStudio, a user friendly interface for R that makes working 
 - Make sure you have already downloaded R (see above).
 - Go to [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/).
 - Scroll down until you see a download button for RStudio Desktop. The webpage automatically detects your platform (Linux, Mac or Windows) but you can also scroll down a bit further to ‘All Installers’ and select the correct installer for your platform yourself.  
-- Go for the latest version (2023.06.1+524 at time of writing).
+- Go for the latest version (2025.05.1+513 at time of writing).
 - Follow the installation instructions.
 
 ## Install a package (e.g. `{survival}` and `{mstate}`)

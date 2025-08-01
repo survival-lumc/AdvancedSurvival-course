@@ -27,7 +27,7 @@ df_sched[is.na(df_sched)] <- ""
 Sys.setlocale("LC_TIME", local_sys)
 ```
 
-## Monday (26/08)
+## Monday (12/01)
 
 ```{r}
 #| label: schedule-mon
@@ -49,7 +49,7 @@ df_sched[df_sched$weekday == "Monday", c(
   column_spec(5, width = "3cm")
 ```
 
-## Tuesday (27/08)
+## Tuesday (13/01)
 
 ```{r}
 #| label: schedule-tue
@@ -71,7 +71,7 @@ df_sched[df_sched$weekday == "Tuesday", c(
   column_spec(5, width = "3cm")
 ```
 
-## Wednesday (28/08)
+## Wednesday (14/01)
 
 ```{r}
 #| label: schedule-wed
@@ -93,7 +93,7 @@ df_sched[df_sched$weekday == "Wednesday", c(
   column_spec(5, width = "3cm")
 ```
 
-## Thursday (29/08)
+## Thursday (15/01)
 
 ```{r}
 #| label: schedule-thu
@@ -115,7 +115,7 @@ df_sched[df_sched$weekday == "Thursday", c(
   column_spec(5, width = "3cm")
 ```
 
-## Friday (30/08)
+## Friday (16/01)
 
 ```{r}
 #| label: schedule-fri

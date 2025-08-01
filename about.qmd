@@ -21,7 +21,7 @@ Topics covered include:
 - Informative censoring
 - Joint models
 
-The tentative course schedule can be found [here](resources/schedule.qmd).
+<!-- The tentative course schedule can be found [here](resources/schedule.qmd). -->
 
 ## Learning strategy
 
@@ -43,4 +43,28 @@ This course is directed at statisticians, epidemiologists and clinicians with a 
 
 *Nan van Geloven* is assistant professor at Leiden University Medical Center (Department of Biomedical Data Sciences). Her research focuses on causal analysis of survival data. She works both on trials and on observational data. She has a special interest in defining estimands and in causal prediction, i.e., predicting outcomes under hypothetical interventions conditional on individual characteristics. 
 
-*Edouard Bonneville* is a PhD Candidate in biostatistics at Leiden University Medical Center. His research interests are in survival analysis, with a particular focus on competing risks, joint models and methods for dealing with missing data. He also works as a statistician for the European Society for Blood and Marrow Transplantation (EBMT).
+*Edouard Bonneville* is a biostatistician with research interests in competing risks, prediction models, and methods for dealing with missing data. He obtained his PhD at Leiden University Medical Center (Department of Biomedical Data Sciences), and will be working at LMU Munich (Institute for Medical Information Processing, Biometry, and Epidemiology) on metascientific aspects of methodological research.
+
+## Photo impression 2024
+::: {layout="[0.5, 0.5]"} 
+![](imgs/20240826_121643.jpg)
+
+![](imgs/20240828_101214.jpg)
+
+![](imgs/20240829_150756.jpg)
+
+![](imgs/IMG-20240827-WA0030.jpg)
+
+![](imgs/1000047219 2.jpg)
+
+![](imgs/IMG-20240827-WA0040.jpg)
+
+![](imgs/IMG-20240830-WA0015.jpg)
+
+![](imgs/IMG-20240830-WA0003.jpg)
+
+![](imgs/20240826_205125.jpg)
+
+![](imgs/20240826_205156.jpg)
+
+:::
