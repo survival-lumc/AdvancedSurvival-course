@@ -34,7 +34,7 @@ Course instructors:
 - Liesbeth de Wreede (Leiden University Medical Center)
 - Hein Putter (Leiden University Medical Center)
 - Maja Pohar Perme (University of Ljubljana, Slovenia)
-- Sara Baart (Erasmus Medical Center, Rotterdam)
+- Pedro Miranda-Afonso (Erasmus University Medical Center, Rotterdam)
 - Nan van Geloven (Leiden University Medical Center)
 - Edouard Bonneville (LMU Munich, Germany)
 
