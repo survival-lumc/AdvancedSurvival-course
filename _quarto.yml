@@ -21,8 +21,8 @@ website:
         href: index.qmd
       - text: Course content
         href: about.qmd
-      # - text: Schedule
-      #   href: resources/schedule.qmd
+      - text: Schedule
+        href: resources/schedule.qmd
       - text: Cancellation policy
         href: resources/cancellation.qmd
     right:

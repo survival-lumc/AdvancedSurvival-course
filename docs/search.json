@@ -67,14 +67,14 @@
     "href": "about.html",
     "title": "About this course",
     "section": "",
-    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models"
+    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models\n\nThe course schedule can be found here."
   },
   {
     "objectID": "about.html#topics-covered",
     "href": "about.html#topics-covered",
     "title": "About this course",
     "section": "",
-    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models"
+    "text": "The course material will be presented in a lecture format, changing between theory and illustrations. Ample attention will be devoted to the practical implementation of the methods covered in the course, by use of R. The lectures will be complemented by computer practicals in R.\nTopics covered include:\n\nIntroduction: Survival analysis, pitfalls and solutions\nCompeting risks\nTime-dependent covariates in Cox regression models and landmarking\nNon-proportional hazards\nPseudo-observations\nRelative survival\nMulti-state models\nDynamic prediction\nFrailty models\nMissing data\nInformative censoring\nJoint models\n\nThe course schedule can be found here."
   },
   {
     "objectID": "about.html#learning-strategy",
@@ -151,7 +151,7 @@
     "href": "resources/schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Start\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n08:45\n09:00\nLiesbeth de Wreede;Hein Putter\nWelcome\n\n\n\n09:00\n10:00\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\nLC01\n\n\n10:00\n10:30\nLiesbeth de Wreede\nCompeting risks\nLC02\n\n\n10:30\n10:45\n\nCoffee Break\n\n\n\n10:45\n11:15\nLiesbeth de Wreede\nCompeting risks (continued)\nLC02\n\n\n11:15\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\nPR01\n\n\n12:30\n13:30\n\nLunch break\n\n\n\n13:30\n14:15\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\nLC03\n\n\n14:15\n14:45\nHein Putter\nNon-proportional hazards\nLC04\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n\n15:00\n16:00\nMaja Pohar Perme\nPseudo-observations\nLC05\n\n\n16:00\n17:00\nHP/MPP\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\nPR02\n\n\n19:00\n\n\nDinner"
+    "text": "Start\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n09:15\nLiesbeth de Wreede/Hein Putter\nWelcome\n\n\n\n09:15\n10:15\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\nLC01\n\n\n10:15\n10:30\n\nCoffee Break\n\n\n\n10:30\n11:45\nLiesbeth de Wreede\nCompeting risks\nLC02\n\n\n11:45\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\nPR01\n\n\n12:30\n13:30\n\nLunch break\n\n\n\n13:30\n14:00\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\nPR01\n\n\n14:00\n14:45\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\nLC03\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n\n15:00\n15:45\nHein Putter\nNon-proportional hazards\nLC04\n\n\n15:45\n17:00\nHein Putter/Maja Pohar Perme\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\nPR02a\n\n\n19:00\n\n\nDinner"
   },
   {
     "objectID": "resources/schedule.html#monday-2608",
@@ -193,35 +193,35 @@
     "href": "resources/schedule.html#monday-1201",
     "title": "Schedule",
     "section": "",
-    "text": "Start\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n08:45\n09:00\nLiesbeth de Wreede;Hein Putter\nWelcome\n\n\n\n09:00\n10:00\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\nLC01\n\n\n10:00\n10:30\nLiesbeth de Wreede\nCompeting risks\nLC02\n\n\n10:30\n10:45\n\nCoffee Break\n\n\n\n10:45\n11:15\nLiesbeth de Wreede\nCompeting risks (continued)\nLC02\n\n\n11:15\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\nPR01\n\n\n12:30\n13:30\n\nLunch break\n\n\n\n13:30\n14:15\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\nLC03\n\n\n14:15\n14:45\nHein Putter\nNon-proportional hazards\nLC04\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n\n15:00\n16:00\nMaja Pohar Perme\nPseudo-observations\nLC05\n\n\n16:00\n17:00\nHP/MPP\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\nPR02\n\n\n19:00\n\n\nDinner"
+    "text": "Start\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n09:15\nLiesbeth de Wreede/Hein Putter\nWelcome\n\n\n\n09:15\n10:15\nLiesbeth de Wreede\nIntroduction: Clinical background, Survival Analysis, pitfalls and solutions\nLC01\n\n\n10:15\n10:30\n\nCoffee Break\n\n\n\n10:30\n11:45\nLiesbeth de Wreede\nCompeting risks\nLC02\n\n\n11:45\n12:30\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\nPR01\n\n\n12:30\n13:30\n\nLunch break\n\n\n\n13:30\n14:00\nLiesbeth de Wreede\nPractical Survival analysis & Competing risks\nPR01\n\n\n14:00\n14:45\nHein Putter\nTime-dependent Covariates in Cox Regression Models and landmarking\nLC03\n\n\n14:45\n15:00\n\nCoffee Break\n\n\n\n15:00\n15:45\nHein Putter\nNon-proportional hazards\nLC04\n\n\n15:45\n17:00\nHein Putter/Maja Pohar Perme\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\nPR02a\n\n\n19:00\n\n\nDinner"
   },
   {
     "objectID": "resources/schedule.html#tuesday-1301",
     "href": "resources/schedule.html#tuesday-1301",
     "title": "Schedule",
     "section": "Tuesday (13/01)",
-    "text": "Tuesday (13/01)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n10:00\nLdW/HP/MPP\nDiscussion practicals Monday\n\n\n\n10:00\n10:30\nLiesbeth de Wreede\nMulti-state models introduction\nLC06\n\n\n10:30\n10:45\n\nCoffee Break\n\n\n\n10:45\n11:15\nLiesbeth de Wreede\nMulti-state models introduction (continued)\nLC06\n\n\n11:15\n12:00\nLdW/HP\nPractical multi-state models\nPR03\n\n\n12:00\n13:00\n\nLunch break\n\n\n\n13:00\n13:45\nLiesbeth de Wreede\nMulti-state models estimation and prediction\nLC07\n\n\n13:45\n14:30\nLdW/HP\nPractical multi-state models\nPR04\n\n\n14:30\n15:00\nMaja Pohar Perme\nRelative survival\nLC08\n\n\n15:00\n15:15\n\nCoffee Break\n\n\n\n15:15\n15:45\nMaja Pohar Perme\nRelative survival (continued)\nLC08\n\n\n15:45\n17:00\nMaja Pohar Perme\nPractical Relative survival\nPR05"
+    "text": "Tuesday (13/01)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n10:00\nMaja Pohar Perme\nPseudo-observations\nLC05\n\n\n10:00\n11:15\nHein Putter/Maja Pohar Perme\nPractical Time-dependent covariates & non-proportional hazards/pseudo-observations\nPR02b\n\n\n11:15\n12:30\nLiesbeth de Wreede\nMulti-state models introduction\nLC06\n\n\n12:30\n13:30\n\nLunch break\n\n\n\n13:30\n14:30\nLiesbeth de Wreede/Hein Putter\nPractical multi-state models\nPR03\n\n\n14:30\n15:30\nLiesbeth de Wreede\nMulti-state models estimation and prediction\nLC07\n\n\n15:30\n17:00\nLiesbeth de Wreede/Hein Putter\nPractical multi-state models\nPR04"
   },
   {
     "objectID": "resources/schedule.html#wednesday-1401",
     "href": "resources/schedule.html#wednesday-1401",
     "title": "Schedule",
     "section": "Wednesday (14/01)",
-    "text": "Wednesday (14/01)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n10:00\nMPP/LdW/HP\nDiscussion practicals Tuesday\n\n\n\n10:00\n11:00\nHein Putter\nDynamic prediction by landmarking\nLC09\n\n\n11:00\n11:15\n\nCoffee Break\n\n\n\n11:15\n12:00\nHein Putter\nPractical dynamic prediction by landmarking\nPR06\n\n\n12:00\n13:00\nHein Putter\nFrailty models I\nLC10\n\n\n13:00\n\n\nFree afternoon"
+    "text": "Wednesday (14/01)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n10:15\nMaja Pohar Perme\nRelative survival\nLC08\n\n\n10:15\n11:45\nMaja Pohar Perme\nPractical Relative survival\nPR05\n\n\n11:45\n13:00\nHein Putter\nFrailty models\nLC09\n\n\n13:00\n\n\nFree afternoon"
   },
   {
     "objectID": "resources/schedule.html#thursday-1501",
     "href": "resources/schedule.html#thursday-1501",
     "title": "Schedule",
     "section": "Thursday (15/01)",
-    "text": "Thursday (15/01)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n09:30\nHein Putter\nDiscussion practicals Wednesday\n\n\n\n09:30\n10:30\nHein Putter\nFrailty models II\nLC11\n\n\n10:30\n10:45\n\nCoffee break\n\n\n\n10:45\n12:00\nHein Putter\nPractical Frailty models\nPR07\n\n\n12:00\n13:00\n\nLunch break\n\n\n\n13:00\n13:45\nNan van Geloven\nInverse probability of censoring weighting\nLC12\n\n\n13:45\n14:15\nNan van Geloven\nPractical Inverse probability of censoring weighting\nPR08\n\n\n14:15\n14:30\nNan van Geloven\nDiscussion practical\n\n\n\n14:30\n14:45\n\nCoffee break\n\n\n\n14:45\n16:00\nEdouard Bonneville\nMissing data\nLC13\n\n\n16:00\n17:00\nEdouard Bonneville\nPractical Missing data\nPR09"
+    "text": "Thursday (15/01)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n10:00\nHein Putter\nDynamic prediction by landmarking\nLC10\n\n\n10:00\n11:00\nHein Putter\nPractical dynamic prediction by landmarking\nPR06\n\n\n11:00\n11:15\n\nCoffee break\n\n\n\n11:15\n12:00\nNan van Geloven\nInverse probability of censoring weighting\nLC11\n\n\n12:00\n13:00\n\nLunch break\n\n\n\n13:00\n14:00\nNan van Geloven\nPractical Inverse probability of censoring weighting\nPR07\n\n\n14:00\n14:15\n\nCoffee break\n\n\n\n14:15\n15:30\nEdouard Bonneville\nMissing data\nLC12\n\n\n15:30\n17:00\nEdouard Bonneville\nPractical Missing data\nPR08"
   },
   {
     "objectID": "resources/schedule.html#friday-1601",
     "href": "resources/schedule.html#friday-1601",
     "title": "Schedule",
     "section": "Friday (16/01)",
-    "text": "Friday (16/01)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n09:45\nHP/EB\nDiscussion practicals Thursday\n\n\n\n09:45\n10:00\n\nCoffee break\n\n\n\n10:00\n12:00\nSara Baart\nLecture Joint models\nLC14\n\n\n12:00\n13:00\n\nLunch break\n\n\n\n13:00\n14:30\nSara Baart\nPractical Joint models\nPR10\n\n\n14:30\n14:45\n\nCoffee break\n\n\n\n14:45\n16:00\nLdW/HP\nWrap-up/Q&A"
+    "text": "Friday (16/01)\n\n\n\n\n\nStart\nFinish\nInstructor\nSession title\nSession code\n\n\n\n\n09:00\n11:00\nPedro Miranda Afonso\nLecture Joint models\nLC13\n\n\n11:00\n12:00\nPedro Miranda Afonso\nPractical Joint models\nPR09\n\n\n12:00\n13:00\n\nLunch break\n\n\n\n13:00\n14:00\nPedro Miranda Afonso\nPractical Joint models\nPR09\n\n\n14:00\n14:15\n\nCoffee break\n\n\n\n14:15\n16:00\nLiesbeth de Wreede/Hein Putter\nBonus/Wrap-up/Q&A"
   },
   {
     "objectID": "about.html#photos-from-2024",

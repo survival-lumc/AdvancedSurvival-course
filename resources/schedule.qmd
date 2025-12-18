@@ -15,7 +15,7 @@ library(kableExtra)
 local_sys <- Sys.getlocale("LC_TIME")
 Sys.setlocale("LC_TIME", "English")
 
-df_sched <- readxl::read_xlsx(here::here("asa-2024-schedule.xlsx"), sheet = 1)
+df_sched <- readxl::read_xlsx(here::here("asa-2026-schedule_upd.xlsx"), sheet = 1)
 df_sched$start_time <- format(as.POSIXct(df_sched$start_time), format = "%H:%M")
 df_sched$finish_time <- format(as.POSIXct(df_sched$finish_time), format = "%H:%M")
 df_sched$weekday <- weekdays(as.POSIXct(df_sched$date))

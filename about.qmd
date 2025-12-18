@@ -21,7 +21,7 @@ Topics covered include:
 - Informative censoring
 - Joint models
 
-<!-- The tentative course schedule can be found [here](resources/schedule.qmd). -->
+The course schedule can be found [here](resources/schedule.qmd).
 
 ## Learning strategy
 
