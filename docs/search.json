@@ -102,7 +102,7 @@
     "href": "index.html",
     "title": "Advanced Survival Analysis course 2026",
     "section": "",
-    "text": "Are you applying survival analysis methods, and do you want to extend your skills? Then register to our Advanced Survival Analysis course to learn state-of-the-art techniques from international experts.\nOur comprehensive course will build on standard tools for survival outcomes: the Kaplan-Meier estimator of the survival curve, the log-rank test for testing equality of survival curves and the Cox proportional hazards regression model. For many common situations these techniques do not suffice, e.g., when more than one event is considered, when the effects of risk factors or treatments change over time, when patients are clustered in groups or when a patient population is compared to the general population. We offer methods for statistical modeling in these settings. Our course delves deeper into a wide range of more specialized topics: non-proportional hazards and time-dependent covariates, competing risks and multi-state models, joint models, landmarking and dynamic prediction, pseudo-observations, frailty models, relative survival, missing data and informative censoring.\nThere will be a balance between concepts, mathematics, implementation (computer practicals based on the programming language R) and interpretation. The majority of clinical examples discussed come from the collaborative work of the teachers with clinicians. You will gain hands-on experience with real clinical data in computer practicals to master the methods.\nAfter the course you will have the tools to tackle complex time-to-event problems!\nFurther information about the course content can be found here."
+    "text": "Save the date! Tentative dates for the next Advanced Survival Analysis course: 30 August - 3 September 2027. If you want to receive an email once registration opens, please send an email to Ms. Leonie Oudshoorn at: statistics “at” lumc.nl, stating “ASA” in the subject line."
   },
   {
     "objectID": "index.html#course-staff",
@@ -250,5 +250,19 @@
     "title": "About this course",
     "section": "Photo impression 2024",
     "text": "Photo impression 2024"
+  },
+  {
+    "objectID": "index.html#announcement",
+    "href": "index.html#announcement",
+    "title": "Advanced Survival Analysis course 2026",
+    "section": "",
+    "text": "Save the date! Tentative dates for the next Advanced Survival Analysis course: 30 August - 3 September 2027. If you want to receive an email once registration opens, please send an email to Ms. Leonie Oudshoorn at: statistics “at” lumc.nl, stating “ASA” in the subject line."
+  },
+  {
+    "objectID": "index.html#information-on-the-course-in-2026",
+    "href": "index.html#information-on-the-course-in-2026",
+    "title": "Advanced Survival Analysis course 2026",
+    "section": "Information on the course in 2026",
+    "text": "Information on the course in 2026\nAre you applying survival analysis methods, and do you want to extend your skills? Then register to our Advanced Survival Analysis course to learn state-of-the-art techniques from international experts.\nOur comprehensive course will build on standard tools for survival outcomes: the Kaplan-Meier estimator of the survival curve, the log-rank test for testing equality of survival curves and the Cox proportional hazards regression model. For many common situations these techniques do not suffice, e.g., when more than one event is considered, when the effects of risk factors or treatments change over time, when patients are clustered in groups or when a patient population is compared to the general population. We offer methods for statistical modeling in these settings. Our course delves deeper into a wide range of more specialized topics: non-proportional hazards and time-dependent covariates, competing risks and multi-state models, joint models, landmarking and dynamic prediction, pseudo-observations, frailty models, relative survival, missing data and informative censoring.\nThere will be a balance between concepts, mathematics, implementation (computer practicals based on the programming language R) and interpretation. The majority of clinical examples discussed come from the collaborative work of the teachers with clinicians. You will gain hands-on experience with real clinical data in computer practicals to master the methods.\nAfter the course you will have the tools to tackle complex time-to-event problems!\nFurther information about the course content can be found here."
   }
 ]
